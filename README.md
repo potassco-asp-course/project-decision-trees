@@ -5,8 +5,8 @@ You can find the instructions of the project in the file [decision-trees.ipynb](
 To submit your solution, please modify the file [decision-trees.lp](asp/decision-trees.lp) of the directory [asp](asp) with your encoding.
 
 Every time you push a new commit, your solution will be tested automatically. 
-The timeout per instance is 100 seconds, and the actual command for the test is:
-* `python asp/test.py -e asp/decision-trees.lp -t 100`
+The timeout per instance is 180 seconds, and the actual command for the test is:
+* `python asp/test.py -e asp/decision-trees.lp -t 180`
 
 For help, type `python asp/test.py --help`.
 
